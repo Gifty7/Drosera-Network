@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Drosera-Network
 In this Guide, we contribute to Drosera testnet by:
 1. Installing the CLI
@@ -349,3 +350,9 @@ Your node will start producing greeen blocks in the dashboard
 
 ![image](https://github.com/user-attachments/assets/9ad08265-0ea4-49f7-85e5-316677245254)
 
+=======
+# Drosera-Network
+>>>>>>> 21639435df8b9323e24fac7a1ae2d0537e33e7ec
+# Drosera Network
+
+This is my fork of 0xmoei's repo with added custom updates.
